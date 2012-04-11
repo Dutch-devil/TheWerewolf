@@ -1,0 +1,21 @@
+name: TheWerewolf
+main: nl.Lennart.thewerewolf.TheWerewolf
+version: 2.3
+author: Lennart van Bremen
+depend: [RPGOverhead]
+commands:
+   togglewerewolf:
+      description: ''
+      usage: ''
+   thewerewolf:
+      description: ''
+      usage: ''
+   infectwerewolf:
+      description: ''
+      usage: ''
+   infectwolfself:
+      description: ''
+      usage: ''
+   togglewolfself:
+      description: ''
+      usage: ''
